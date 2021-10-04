@@ -1,1 +1,1 @@
-This is assignment project
+This is the assignment project
